@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsync",
+        "uuid": 18201600,
+        "checksum": "q9msoj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
